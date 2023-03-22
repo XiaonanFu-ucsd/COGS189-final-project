@@ -1,6 +1,6 @@
 # COGS189-final-project
 
-## [Report]()
+## [Report](https://github.com/XiaonanFu-ucsd/COGS189-final-project/blob/main/report.pdf)
 
 ## Code for this project
 - result.ipynb: the final result used in the report. 
