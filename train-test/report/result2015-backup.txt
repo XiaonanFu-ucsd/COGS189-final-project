@@ -1,0 +1,2744 @@
+svm_0_100
+tn, fp, fn, tp: 7990  1250  1295  553
+f1 score: 0.30293070391673516
+accuracy: 0.7704725829725829
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.86      0.86      9240
+         1.0       0.31      0.30      0.30      1848
+
+    accuracy                           0.77     11088
+   macro avg       0.58      0.58      0.58     11088
+weighted avg       0.77      0.77      0.77     11088
+
+
+svm_0_200
+tn, fp, fn, tp: 7880  1360  1174  674
+f1 score: 0.34724368882019574
+accuracy: 0.7714646464646465
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.85      0.86      9240
+         1.0       0.33      0.36      0.35      1848
+
+    accuracy                           0.77     11088
+   macro avg       0.60      0.61      0.60     11088
+weighted avg       0.78      0.77      0.78     11088
+
+
+svm_0_300
+tn, fp, fn, tp: 7652  1588  1048  800
+f1 score: 0.3777148253068933
+accuracy: 0.7622655122655123
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.83      0.85      9240
+         1.0       0.34      0.43      0.38      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.61      0.63      0.62     11088
+weighted avg       0.79      0.76      0.77     11088
+
+
+svm_0_400
+tn, fp, fn, tp: 7510  1730  956  892
+f1 score: 0.39910514541387027
+accuracy: 0.7577561327561327
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.81      0.85      9240
+         1.0       0.34      0.48      0.40      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.61      0.65      0.62     11088
+weighted avg       0.80      0.76      0.77     11088
+
+
+svm_0_500
+tn, fp, fn, tp: 7637  1603  934  914
+f1 score: 0.41878579610538375
+accuracy: 0.7711940836940837
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.83      0.86      9240
+         1.0       0.36      0.49      0.42      1848
+
+    accuracy                           0.77     11088
+   macro avg       0.63      0.66      0.64     11088
+weighted avg       0.80      0.77      0.78     11088
+
+
+svm_0_600
+tn, fp, fn, tp: 7663  1577  876  972
+f1 score: 0.44211962701842167
+accuracy: 0.7787698412698413
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.83      0.86      9240
+         1.0       0.38      0.53      0.44      1848
+
+    accuracy                           0.78     11088
+   macro avg       0.64      0.68      0.65     11088
+weighted avg       0.81      0.78      0.79     11088
+
+
+svm_0_700
+tn, fp, fn, tp: 7632  1608  829  1019
+f1 score: 0.45541899441340783
+accuracy: 0.7802128427128427
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.83      0.86      9240
+         1.0       0.39      0.55      0.46      1848
+
+    accuracy                           0.78     11088
+   macro avg       0.64      0.69      0.66     11088
+weighted avg       0.82      0.78      0.79     11088
+
+
+svm_0_800
+tn, fp, fn, tp: 7589  1651  774  1074
+f1 score: 0.46971353597200965
+accuracy: 0.7812950937950938
+              precision    recall  f1-score   support
+
+        -1.0       0.91      0.82      0.86      9240
+         1.0       0.39      0.58      0.47      1848
+
+    accuracy                           0.78     11088
+   macro avg       0.65      0.70      0.67     11088
+weighted avg       0.82      0.78      0.80     11088
+
+
+svm_0_900
+tn, fp, fn, tp: 7594  1646  744  1104
+f1 score: 0.4802087864288821
+accuracy: 0.7844516594516594
+              precision    recall  f1-score   support
+
+        -1.0       0.91      0.82      0.86      9240
+         1.0       0.40      0.60      0.48      1848
+
+    accuracy                           0.78     11088
+   macro avg       0.66      0.71      0.67     11088
+weighted avg       0.83      0.78      0.80     11088
+
+
+svm_1_0
+tn, fp, fn, tp: 6734  2506  1088  760
+f1 score: 0.2972233085647243
+accuracy: 0.6758658008658008
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.73      0.79      9240
+         1.0       0.23      0.41      0.30      1848
+
+    accuracy                           0.68     11088
+   macro avg       0.55      0.57      0.54     11088
+weighted avg       0.76      0.68      0.71     11088
+
+
+svm_1_100
+tn, fp, fn, tp: 6947  2293  1077  771
+f1 score: 0.3139250814332248
+accuracy: 0.6960678210678211
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.75      0.80      9240
+         1.0       0.25      0.42      0.31      1848
+
+    accuracy                           0.70     11088
+   macro avg       0.56      0.58      0.56     11088
+weighted avg       0.76      0.70      0.72     11088
+
+
+svm_1_200
+tn, fp, fn, tp: 6880  2360  1027  821
+f1 score: 0.3265062636707099
+accuracy: 0.6945346320346321
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.74      0.80      9240
+         1.0       0.26      0.44      0.33      1848
+
+    accuracy                           0.69     11088
+   macro avg       0.56      0.59      0.56     11088
+weighted avg       0.77      0.69      0.72     11088
+
+
+lda_0_100
+tn, fp, fn, tp: 8470  770  1152  696
+f1 score: 0.420036210018105
+accuracy: 0.8266594516594516
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.92      0.90      9240
+         1.0       0.47      0.38      0.42      1848
+
+    accuracy                           0.83     11088
+   macro avg       0.68      0.65      0.66     11088
+weighted avg       0.81      0.83      0.82     11088
+
+
+lda_0_200
+tn, fp, fn, tp: 8470  770  1152  696
+f1 score: 0.420036210018105
+accuracy: 0.8266594516594516
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.92      0.90      9240
+         1.0       0.47      0.38      0.42      1848
+
+    accuracy                           0.83     11088
+   macro avg       0.68      0.65      0.66     11088
+weighted avg       0.81      0.83      0.82     11088
+
+
+lda_0_300
+tn, fp, fn, tp: 8470  770  1152  696
+f1 score: 0.420036210018105
+accuracy: 0.8266594516594516
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.92      0.90      9240
+         1.0       0.47      0.38      0.42      1848
+
+    accuracy                           0.83     11088
+   macro avg       0.68      0.65      0.66     11088
+weighted avg       0.81      0.83      0.82     11088
+
+
+lda_0_400
+tn, fp, fn, tp: 8470  770  1152  696
+f1 score: 0.420036210018105
+accuracy: 0.8266594516594516
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.92      0.90      9240
+         1.0       0.47      0.38      0.42      1848
+
+    accuracy                           0.83     11088
+   macro avg       0.68      0.65      0.66     11088
+weighted avg       0.81      0.83      0.82     11088
+
+
+lda_0_500
+tn, fp, fn, tp: 8470  770  1152  696
+f1 score: 0.420036210018105
+accuracy: 0.8266594516594516
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.92      0.90      9240
+         1.0       0.47      0.38      0.42      1848
+
+    accuracy                           0.83     11088
+   macro avg       0.68      0.65      0.66     11088
+weighted avg       0.81      0.83      0.82     11088
+
+
+lda_0_600
+tn, fp, fn, tp: 8470  770  1152  696
+f1 score: 0.420036210018105
+accuracy: 0.8266594516594516
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.92      0.90      9240
+         1.0       0.47      0.38      0.42      1848
+
+    accuracy                           0.83     11088
+   macro avg       0.68      0.65      0.66     11088
+weighted avg       0.81      0.83      0.82     11088
+
+
+lda_0_700
+tn, fp, fn, tp: 8470  770  1152  696
+f1 score: 0.420036210018105
+accuracy: 0.8266594516594516
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.92      0.90      9240
+         1.0       0.47      0.38      0.42      1848
+
+    accuracy                           0.83     11088
+   macro avg       0.68      0.65      0.66     11088
+weighted avg       0.81      0.83      0.82     11088
+
+
+lda_0_800
+tn, fp, fn, tp: 8470  770  1152  696
+f1 score: 0.420036210018105
+accuracy: 0.8266594516594516
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.92      0.90      9240
+         1.0       0.47      0.38      0.42      1848
+
+    accuracy                           0.83     11088
+   macro avg       0.68      0.65      0.66     11088
+weighted avg       0.81      0.83      0.82     11088
+
+
+lda_0_900
+tn, fp, fn, tp: 8470  770  1152  696
+f1 score: 0.420036210018105
+accuracy: 0.8266594516594516
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.92      0.90      9240
+         1.0       0.47      0.38      0.42      1848
+
+    accuracy                           0.83     11088
+   macro avg       0.68      0.65      0.66     11088
+weighted avg       0.81      0.83      0.82     11088
+
+
+lda_1_0
+tn, fp, fn, tp: 8695  545  1281  567
+f1 score: 0.38310810810810814
+accuracy: 0.8353174603174603
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.90      9240
+         1.0       0.51      0.31      0.38      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.69      0.62      0.64     11088
+weighted avg       0.81      0.84      0.82     11088
+
+
+lda_1_100
+tn, fp, fn, tp: 8693  547  1273  575
+f1 score: 0.3872053872053872
+accuracy: 0.8358585858585859
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.51      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.69      0.63      0.65     11088
+weighted avg       0.81      0.84      0.82     11088
+
+
+lda_1_200
+tn, fp, fn, tp: 8662  578  1253  595
+f1 score: 0.39390930155577625
+accuracy: 0.8348665223665224
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.90      9240
+         1.0       0.51      0.32      0.39      1848
+
+    accuracy                           0.83     11088
+   macro avg       0.69      0.63      0.65     11088
+weighted avg       0.81      0.83      0.82     11088
+
+
+lda_1_300
+tn, fp, fn, tp: 8701  539  1268  580
+f1 score: 0.39096730704415233
+accuracy: 0.8370310245310245
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.52      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.70      0.63      0.65     11088
+weighted avg       0.81      0.84      0.82     11088
+
+
+lda_1_400
+tn, fp, fn, tp: 8690  550  1274  574
+f1 score: 0.386271870794078
+accuracy: 0.8354978354978355
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.51      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.69      0.63      0.65     11088
+weighted avg       0.81      0.84      0.82     11088
+
+
+lda_1_500
+tn, fp, fn, tp: 8704  536  1274  574
+f1 score: 0.3881000676132523
+accuracy: 0.8367604617604618
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.52      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.69      0.63      0.65     11088
+weighted avg       0.81      0.84      0.82     11088
+
+
+lda_1_600
+tn, fp, fn, tp: 8691  549  1257  591
+f1 score: 0.3955823293172691
+accuracy: 0.8371212121212122
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.52      0.32      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.70      0.63      0.65     11088
+weighted avg       0.81      0.84      0.82     11088
+
+
+lda_1_700
+tn, fp, fn, tp: 8731  509  1256  592
+f1 score: 0.4014920311970159
+accuracy: 0.8408189033189033
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.54      0.32      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_1_800
+tn, fp, fn, tp: 8670  570  1247  601
+f1 score: 0.3981450811526996
+accuracy: 0.8361291486291487
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.51      0.33      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.69      0.63      0.65     11088
+weighted avg       0.81      0.84      0.82     11088
+
+
+lda_1_900
+tn, fp, fn, tp: 8689  551  1269  579
+f1 score: 0.3888515782404299
+accuracy: 0.8358585858585859
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.51      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.69      0.63      0.65     11088
+weighted avg       0.81      0.84      0.82     11088
+
+
+lda_3_0
+tn, fp, fn, tp: 8760  480  1260  588
+f1 score: 0.4032921810699589
+accuracy: 0.8430735930735931
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.55      0.32      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.66     11088
+weighted avg       0.82      0.84      0.83     11088
+
+
+lda_3_100
+tn, fp, fn, tp: 8767  473  1303  545
+f1 score: 0.38032100488485693
+accuracy: 0.8398268398268398
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.54      0.29      0.38      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.70      0.62      0.64     11088
+weighted avg       0.81      0.84      0.82     11088
+
+
+lda_3_200
+tn, fp, fn, tp: 8746  494  1244  604
+f1 score: 0.41004752206381534
+accuracy: 0.8432539682539683
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.95      0.91      9240
+         1.0       0.55      0.33      0.41      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.64      0.66     11088
+weighted avg       0.82      0.84      0.83     11088
+
+
+lda_3_300
+tn, fp, fn, tp: 8762  478  1236  612
+f1 score: 0.41660993873383256
+accuracy: 0.8454184704184704
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.95      0.91      9240
+         1.0       0.56      0.33      0.42      1848
+
+    accuracy                           0.85     11088
+   macro avg       0.72      0.64      0.66     11088
+weighted avg       0.82      0.85      0.83     11088
+
+
+lda_3_400
+tn, fp, fn, tp: 8714  526  1234  614
+f1 score: 0.41097724230254346
+accuracy: 0.8412698412698413
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.94      0.91      9240
+         1.0       0.54      0.33      0.41      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.64      0.66     11088
+weighted avg       0.82      0.84      0.83     11088
+
+
+lda_3_500
+tn, fp, fn, tp: 8751  489  1273  575
+f1 score: 0.39491758241758246
+accuracy: 0.8410894660894661
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.54      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_3_600
+tn, fp, fn, tp: 8730  510  1249  599
+f1 score: 0.4051403449442002
+accuracy: 0.8413600288600288
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.54      0.32      0.41      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.66     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_3_700
+tn, fp, fn, tp: 8743  497  1271  577
+f1 score: 0.3949349760438056
+accuracy: 0.8405483405483406
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.54      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_3_800
+tn, fp, fn, tp: 8739  501  1253  595
+f1 score: 0.40421195652173914
+accuracy: 0.8418109668109668
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.54      0.32      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.66     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_3_900
+tn, fp, fn, tp: 8763  477  1277  571
+f1 score: 0.39433701657458564
+accuracy: 0.8418109668109668
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.54      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_10_0
+tn, fp, fn, tp: 8751  489  1278  570
+f1 score: 0.392156862745098
+accuracy: 0.8406385281385281
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.54      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_10_100
+tn, fp, fn, tp: 8744  496  1271  577
+f1 score: 0.3950701814447107
+accuracy: 0.8406385281385281
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.54      0.31      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_10_200
+tn, fp, fn, tp: 8755  485  1303  545
+f1 score: 0.37873523280055593
+accuracy: 0.8387445887445888
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.53      0.29      0.38      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.70      0.62      0.64     11088
+weighted avg       0.81      0.84      0.82     11088
+
+
+lda_10_300
+tn, fp, fn, tp: 8760  480  1289  559
+f1 score: 0.3872532040180118
+accuracy: 0.840458152958153
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.54      0.30      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.70      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_10_400
+tn, fp, fn, tp: 8770  470  1274  574
+f1 score: 0.39695712309820197
+accuracy: 0.8427128427128427
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.55      0.31      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_10_500
+tn, fp, fn, tp: 8701  539  1251  597
+f1 score: 0.4001340482573726
+accuracy: 0.8385642135642135
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.53      0.32      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.70      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_10_600
+tn, fp, fn, tp: 8719  521  1251  597
+f1 score: 0.4025623735670937
+accuracy: 0.8401875901875901
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.53      0.32      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.70      0.63      0.66     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_10_700
+tn, fp, fn, tp: 8724  516  1254  594
+f1 score: 0.40162271805273836
+accuracy: 0.8403679653679653
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.54      0.32      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.70      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_10_800
+tn, fp, fn, tp: 8706  534  1245  603
+f1 score: 0.4040201005025125
+accuracy: 0.8395562770562771
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.94      0.91      9240
+         1.0       0.53      0.33      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.70      0.63      0.66     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_10_900
+tn, fp, fn, tp: 8766  474  1275  573
+f1 score: 0.39585492227979274
+accuracy: 0.8422619047619048
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.55      0.31      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_30_0
+tn, fp, fn, tp: 8764  476  1278  570
+f1 score: 0.39391845196959224
+accuracy: 0.8418109668109668
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.54      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_30_100
+tn, fp, fn, tp: 8735  505  1277  571
+f1 score: 0.39056087551299584
+accuracy: 0.8392857142857143
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.53      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.70      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_30_200
+tn, fp, fn, tp: 8760  480  1263  585
+f1 score: 0.40164778578784754
+accuracy: 0.8428030303030303
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.55      0.32      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.66     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_30_300
+tn, fp, fn, tp: 8780  460  1279  569
+f1 score: 0.39555092109836637
+accuracy: 0.8431637806637806
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.55      0.31      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_30_400
+tn, fp, fn, tp: 8754  486  1283  565
+f1 score: 0.3897895826146947
+accuracy: 0.840458152958153
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.54      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.70      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_30_500
+tn, fp, fn, tp: 8734  506  1259  589
+f1 score: 0.400271831464492
+accuracy: 0.8408189033189033
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.54      0.32      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_30_600
+tn, fp, fn, tp: 8749  491  1296  552
+f1 score: 0.38187478381182977
+accuracy: 0.8388347763347763
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.53      0.30      0.38      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.70      0.62      0.64     11088
+weighted avg       0.81      0.84      0.82     11088
+
+
+lda_30_700
+tn, fp, fn, tp: 8767  473  1278  570
+f1 score: 0.3943272224143895
+accuracy: 0.8420815295815296
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.55      0.31      0.39      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_30_800
+tn, fp, fn, tp: 8798  442  1322  526
+f1 score: 0.3735795454545455
+accuracy: 0.8409090909090909
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.54      0.28      0.37      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.62      0.64     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+lda_30_900
+tn, fp, fn, tp: 8763  477  1272  576
+f1 score: 0.39710444674250256
+accuracy: 0.8422619047619048
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.95      0.91      9240
+         1.0       0.55      0.31      0.40      1848
+
+    accuracy                           0.84     11088
+   macro avg       0.71      0.63      0.65     11088
+weighted avg       0.82      0.84      0.82     11088
+
+
+cnn_0_100
+tn, fp, fn, tp: 7708  1532  1361  487
+f1 score: 0.2518748383760021
+accuracy: 0.7390873015873016
+              precision    recall  f1-score   support
+
+        -1.0       0.85      0.83      0.84      9240
+         1.0       0.24      0.26      0.25      1848
+
+    accuracy                           0.74     11088
+   macro avg       0.55      0.55      0.55     11088
+weighted avg       0.75      0.74      0.74     11088
+
+
+cnn_0_200
+tn, fp, fn, tp: 7544  1696  1264  584
+f1 score: 0.2829457364341086
+accuracy: 0.733044733044733
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.82      0.84      9240
+         1.0       0.26      0.32      0.28      1848
+
+    accuracy                           0.73     11088
+   macro avg       0.56      0.57      0.56     11088
+weighted avg       0.76      0.73      0.74     11088
+
+
+cnn_0_300
+tn, fp, fn, tp: 7474  1766  1199  649
+f1 score: 0.3044804128547971
+accuracy: 0.7325937950937951
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.81      0.83      9240
+         1.0       0.27      0.35      0.30      1848
+
+    accuracy                           0.73     11088
+   macro avg       0.57      0.58      0.57     11088
+weighted avg       0.76      0.73      0.75     11088
+
+
+cnn_0_400
+tn, fp, fn, tp: 7558  1682  1191  657
+f1 score: 0.31382851683783136
+accuracy: 0.7408910533910534
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.82      0.84      9240
+         1.0       0.28      0.36      0.31      1848
+
+    accuracy                           0.74     11088
+   macro avg       0.57      0.59      0.58     11088
+weighted avg       0.77      0.74      0.75     11088
+
+
+cnn_0_500
+tn, fp, fn, tp: 7757  1483  1202  646
+f1 score: 0.32486799094795077
+accuracy: 0.7578463203463204
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.84      0.85      9240
+         1.0       0.30      0.35      0.32      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.58      0.59      0.59     11088
+weighted avg       0.77      0.76      0.76     11088
+
+
+cnn_0_600
+tn, fp, fn, tp: 7404  1836  1067  781
+f1 score: 0.3498320268756999
+accuracy: 0.7381854256854257
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.80      0.84      9240
+         1.0       0.30      0.42      0.35      1848
+
+    accuracy                           0.74     11088
+   macro avg       0.59      0.61      0.59     11088
+weighted avg       0.78      0.74      0.76     11088
+
+
+cnn_0_700
+tn, fp, fn, tp: 7628  1612  1133  715
+f1 score: 0.34251497005988024
+accuracy: 0.752435064935065
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.83      0.85      9240
+         1.0       0.31      0.39      0.34      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.59      0.61      0.60     11088
+weighted avg       0.78      0.75      0.76     11088
+
+
+cnn_0_800
+tn, fp, fn, tp: 7643  1597  1125  723
+f1 score: 0.34692898272552786
+accuracy: 0.7545093795093795
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.83      0.85      9240
+         1.0       0.31      0.39      0.35      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.59      0.61      0.60     11088
+weighted avg       0.78      0.75      0.77     11088
+
+
+cnn_0_900
+tn, fp, fn, tp: 7737  1503  1079  769
+f1 score: 0.3733009708737864
+accuracy: 0.7671356421356421
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.84      0.86      9240
+         1.0       0.34      0.42      0.37      1848
+
+    accuracy                           0.77     11088
+   macro avg       0.61      0.63      0.62     11088
+weighted avg       0.79      0.77      0.78     11088
+
+
+cnn_1_0
+tn, fp, fn, tp: 8265  975  1487  361
+f1 score: 0.22675879396984924
+accuracy: 0.777958152958153
+              precision    recall  f1-score   support
+
+        -1.0       0.85      0.89      0.87      9240
+         1.0       0.27      0.20      0.23      1848
+
+    accuracy                           0.78     11088
+   macro avg       0.56      0.54      0.55     11088
+weighted avg       0.75      0.78      0.76     11088
+
+
+cnn_1_100
+tn, fp, fn, tp: 8076  1164  1434  414
+f1 score: 0.2416812609457093
+accuracy: 0.7656926406926406
+              precision    recall  f1-score   support
+
+        -1.0       0.85      0.87      0.86      9240
+         1.0       0.26      0.22      0.24      1848
+
+    accuracy                           0.77     11088
+   macro avg       0.56      0.55      0.55     11088
+weighted avg       0.75      0.77      0.76     11088
+
+
+cnn_1_200
+tn, fp, fn, tp: 8137  1103  1467  381
+f1 score: 0.22869147659063627
+accuracy: 0.7682178932178932
+              precision    recall  f1-score   support
+
+        -1.0       0.85      0.88      0.86      9240
+         1.0       0.26      0.21      0.23      1848
+
+    accuracy                           0.77     11088
+   macro avg       0.55      0.54      0.55     11088
+weighted avg       0.75      0.77      0.76     11088
+
+
+cnn_1_300
+tn, fp, fn, tp: 8206  1034  1433  415
+f1 score: 0.25174400970579314
+accuracy: 0.777507215007215
+              precision    recall  f1-score   support
+
+        -1.0       0.85      0.89      0.87      9240
+         1.0       0.29      0.22      0.25      1848
+
+    accuracy                           0.78     11088
+   macro avg       0.57      0.56      0.56     11088
+weighted avg       0.76      0.78      0.77     11088
+
+
+cnn_1_400
+tn, fp, fn, tp: 8103  1137  1354  494
+f1 score: 0.2839896521989077
+accuracy: 0.7753427128427128
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.88      0.87      9240
+         1.0       0.30      0.27      0.28      1848
+
+    accuracy                           0.78     11088
+   macro avg       0.58      0.57      0.58     11088
+weighted avg       0.76      0.78      0.77     11088
+
+
+cnn_1_500
+tn, fp, fn, tp: 8160  1080  1380  468
+f1 score: 0.2756183745583039
+accuracy: 0.7781385281385281
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.88      0.87      9240
+         1.0       0.30      0.25      0.28      1848
+
+    accuracy                           0.78     11088
+   macro avg       0.58      0.57      0.57     11088
+weighted avg       0.76      0.78      0.77     11088
+
+
+cnn_1_600
+tn, fp, fn, tp: 8179  1061  1368  480
+f1 score: 0.2832694010032458
+accuracy: 0.7809343434343434
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.89      0.87      9240
+         1.0       0.31      0.26      0.28      1848
+
+    accuracy                           0.78     11088
+   macro avg       0.58      0.57      0.58     11088
+weighted avg       0.77      0.78      0.77     11088
+
+
+cnn_1_700
+tn, fp, fn, tp: 8088  1152  1357  491
+f1 score: 0.28129475794901176
+accuracy: 0.7737193362193362
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.88      0.87      9240
+         1.0       0.30      0.27      0.28      1848
+
+    accuracy                           0.77     11088
+   macro avg       0.58      0.57      0.57     11088
+weighted avg       0.76      0.77      0.77     11088
+
+
+cnn_1_800
+tn, fp, fn, tp: 8176  1064  1378  470
+f1 score: 0.2779420461265524
+accuracy: 0.7797619047619048
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.88      0.87      9240
+         1.0       0.31      0.25      0.28      1848
+
+    accuracy                           0.78     11088
+   macro avg       0.58      0.57      0.57     11088
+weighted avg       0.76      0.78      0.77     11088
+
+
+cnn_1_900
+tn, fp, fn, tp: 8037  1203  1331  517
+f1 score: 0.28979820627802694
+accuracy: 0.7714646464646465
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.87      0.86      9240
+         1.0       0.30      0.28      0.29      1848
+
+    accuracy                           0.77     11088
+   macro avg       0.58      0.57      0.58     11088
+weighted avg       0.77      0.77      0.77     11088
+
+
+cnn_3_0
+tn, fp, fn, tp: 3906  5334  705  1143
+f1 score: 0.2745945945945946
+accuracy: 0.45535714285714285
+              precision    recall  f1-score   support
+
+        -1.0       0.85      0.42      0.56      9240
+         1.0       0.18      0.62      0.27      1848
+
+    accuracy                           0.46     11088
+   macro avg       0.51      0.52      0.42     11088
+weighted avg       0.74      0.46      0.52     11088
+
+
+cnn_3_100
+tn, fp, fn, tp: 4634  4606  824  1024
+f1 score: 0.2738700187215833
+accuracy: 0.5102813852813853
+              precision    recall  f1-score   support
+
+        -1.0       0.85      0.50      0.63      9240
+         1.0       0.18      0.55      0.27      1848
+
+    accuracy                           0.51     11088
+   macro avg       0.52      0.53      0.45     11088
+weighted avg       0.74      0.51      0.57     11088
+
+
+cnn_3_200
+tn, fp, fn, tp: 2100  7140  335  1513
+f1 score: 0.28816303209218175
+accuracy: 0.32584776334776333
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.23      0.36      9240
+         1.0       0.17      0.82      0.29      1848
+
+    accuracy                           0.33     11088
+   macro avg       0.52      0.52      0.32     11088
+weighted avg       0.75      0.33      0.35     11088
+
+
+cnn_3_300
+tn, fp, fn, tp: 2329  6911  360  1488
+f1 score: 0.2904264662828145
+accuracy: 0.34424603174603174
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.25      0.39      9240
+         1.0       0.18      0.81      0.29      1848
+
+    accuracy                           0.34     11088
+   macro avg       0.52      0.53      0.34     11088
+weighted avg       0.75      0.34      0.37     11088
+
+
+cnn_3_400
+tn, fp, fn, tp: 6353  2887  1067  781
+f1 score: 0.2831762146482959
+accuracy: 0.6433982683982684
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.69      0.76      9240
+         1.0       0.21      0.42      0.28      1848
+
+    accuracy                           0.64     11088
+   macro avg       0.53      0.56      0.52     11088
+weighted avg       0.75      0.64      0.68     11088
+
+
+cnn_3_500
+tn, fp, fn, tp: 4110  5130  690  1158
+f1 score: 0.28466076696165193
+accuracy: 0.4751082251082251
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.44      0.59      9240
+         1.0       0.18      0.63      0.28      1848
+
+    accuracy                           0.48     11088
+   macro avg       0.52      0.54      0.44     11088
+weighted avg       0.74      0.48      0.54     11088
+
+
+cnn_3_600
+tn, fp, fn, tp: 6531  2709  1111  737
+f1 score: 0.2784284095202116
+accuracy: 0.6554834054834054
+              precision    recall  f1-score   support
+
+        -1.0       0.85      0.71      0.77      9240
+         1.0       0.21      0.40      0.28      1848
+
+    accuracy                           0.66     11088
+   macro avg       0.53      0.55      0.53     11088
+weighted avg       0.75      0.66      0.69     11088
+
+
+cnn_3_700
+tn, fp, fn, tp: 5558  3682  871  977
+f1 score: 0.30029199323805134
+accuracy: 0.5893759018759018
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.60      0.71      9240
+         1.0       0.21      0.53      0.30      1848
+
+    accuracy                           0.59     11088
+   macro avg       0.54      0.57      0.50     11088
+weighted avg       0.76      0.59      0.64     11088
+
+
+cnn_3_800
+tn, fp, fn, tp: 4563  4677  768  1080
+f1 score: 0.28402366863905326
+accuracy: 0.5089285714285714
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.49      0.63      9240
+         1.0       0.19      0.58      0.28      1848
+
+    accuracy                           0.51     11088
+   macro avg       0.52      0.54      0.46     11088
+weighted avg       0.74      0.51      0.57     11088
+
+
+cnn_3_900
+tn, fp, fn, tp: 3732  5508  577  1271
+f1 score: 0.2946563115799235
+accuracy: 0.4512085137085137
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.40      0.55      9240
+         1.0       0.19      0.69      0.29      1848
+
+    accuracy                           0.45     11088
+   macro avg       0.53      0.55      0.42     11088
+weighted avg       0.75      0.45      0.51     11088
+
+
+cnn_10_0
+tn, fp, fn, tp: 8413  827  1442  406
+f1 score: 0.2635507951963648
+accuracy: 0.7953643578643579
+              precision    recall  f1-score   support
+
+        -1.0       0.85      0.91      0.88      9240
+         1.0       0.33      0.22      0.26      1848
+
+    accuracy                           0.80     11088
+   macro avg       0.59      0.57      0.57     11088
+weighted avg       0.77      0.80      0.78     11088
+
+
+cnn_10_100
+tn, fp, fn, tp: 8349  891  1413  435
+f1 score: 0.2741020793950851
+accuracy: 0.7922077922077922
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.90      0.88      9240
+         1.0       0.33      0.24      0.27      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.59      0.57      0.58     11088
+weighted avg       0.77      0.79      0.78     11088
+
+
+cnn_10_200
+tn, fp, fn, tp: 8407  833  1454  394
+f1 score: 0.256260162601626
+accuracy: 0.7937409812409812
+              precision    recall  f1-score   support
+
+        -1.0       0.85      0.91      0.88      9240
+         1.0       0.32      0.21      0.26      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.59      0.56      0.57     11088
+weighted avg       0.76      0.79      0.78     11088
+
+
+cnn_10_300
+tn, fp, fn, tp: 8366  874  1423  425
+f1 score: 0.27009850651414047
+accuracy: 0.7928391053391053
+              precision    recall  f1-score   support
+
+        -1.0       0.85      0.91      0.88      9240
+         1.0       0.33      0.23      0.27      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.59      0.57      0.57     11088
+weighted avg       0.77      0.79      0.78     11088
+
+
+cnn_10_400
+tn, fp, fn, tp: 8419  821  1411  437
+f1 score: 0.28139085640695427
+accuracy: 0.7987012987012987
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.91      0.88      9240
+         1.0       0.35      0.24      0.28      1848
+
+    accuracy                           0.80     11088
+   macro avg       0.60      0.57      0.58     11088
+weighted avg       0.77      0.80      0.78     11088
+
+
+cnn_10_500
+tn, fp, fn, tp: 8299  941  1341  507
+f1 score: 0.30764563106796117
+accuracy: 0.7941919191919192
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.90      0.88      9240
+         1.0       0.35      0.27      0.31      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.61      0.59      0.59     11088
+weighted avg       0.78      0.79      0.78     11088
+
+
+cnn_10_600
+tn, fp, fn, tp: 8329  911  1375  473
+f1 score: 0.2926980198019802
+accuracy: 0.7938311688311688
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.90      0.88      9240
+         1.0       0.34      0.26      0.29      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.60      0.58      0.59     11088
+weighted avg       0.77      0.79      0.78     11088
+
+
+cnn_10_700
+tn, fp, fn, tp: 8470  770  1419  429
+f1 score: 0.28158844765342966
+accuracy: 0.8025793650793651
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.92      0.89      9240
+         1.0       0.36      0.23      0.28      1848
+
+    accuracy                           0.80     11088
+   macro avg       0.61      0.57      0.58     11088
+weighted avg       0.77      0.80      0.78     11088
+
+
+cnn_10_800
+tn, fp, fn, tp: 8280  960  1372  476
+f1 score: 0.28989037758830694
+accuracy: 0.7896825396825397
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.90      0.88      9240
+         1.0       0.33      0.26      0.29      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.59      0.58      0.58     11088
+weighted avg       0.77      0.79      0.78     11088
+
+
+cnn_10_900
+tn, fp, fn, tp: 8413  827  1396  452
+f1 score: 0.28909497921330346
+accuracy: 0.799512987012987
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.91      0.88      9240
+         1.0       0.35      0.24      0.29      1848
+
+    accuracy                           0.80     11088
+   macro avg       0.61      0.58      0.59     11088
+weighted avg       0.77      0.80      0.78     11088
+
+
+cnn_30_0
+tn, fp, fn, tp: 8319  921  1406  442
+f1 score: 0.27530364372469635
+accuracy: 0.7901334776334776
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.90      0.88      9240
+         1.0       0.32      0.24      0.28      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.59      0.57      0.58     11088
+weighted avg       0.77      0.79      0.78     11088
+
+
+cnn_30_100
+tn, fp, fn, tp: 8283  957  1407  441
+f1 score: 0.27171903881700554
+accuracy: 0.7867965367965368
+              precision    recall  f1-score   support
+
+        -1.0       0.85      0.90      0.88      9240
+         1.0       0.32      0.24      0.27      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.59      0.57      0.57     11088
+weighted avg       0.76      0.79      0.77     11088
+
+
+cnn_30_200
+tn, fp, fn, tp: 8285  955  1390  458
+f1 score: 0.2808954308494327
+accuracy: 0.788510101010101
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.90      0.88      9240
+         1.0       0.32      0.25      0.28      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.59      0.57      0.58     11088
+weighted avg       0.77      0.79      0.78     11088
+
+
+cnn_30_300
+tn, fp, fn, tp: 8261  979  1389  459
+f1 score: 0.2793670115642118
+accuracy: 0.7864357864357865
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.89      0.87      9240
+         1.0       0.32      0.25      0.28      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.59      0.57      0.58     11088
+weighted avg       0.77      0.79      0.78     11088
+
+
+cnn_30_400
+tn, fp, fn, tp: 8324  916  1380  468
+f1 score: 0.2896039603960396
+accuracy: 0.7929292929292929
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.90      0.88      9240
+         1.0       0.34      0.25      0.29      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.60      0.58      0.58     11088
+weighted avg       0.77      0.79      0.78     11088
+
+
+cnn_30_500
+tn, fp, fn, tp: 8228  1012  1369  479
+f1 score: 0.2869122491764001
+accuracy: 0.7852633477633477
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.89      0.87      9240
+         1.0       0.32      0.26      0.29      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.59      0.57      0.58     11088
+weighted avg       0.77      0.79      0.78     11088
+
+
+cnn_30_600
+tn, fp, fn, tp: 8277  963  1380  468
+f1 score: 0.2854528819762122
+accuracy: 0.7886904761904762
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.90      0.88      9240
+         1.0       0.33      0.25      0.29      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.59      0.57      0.58     11088
+weighted avg       0.77      0.79      0.78     11088
+
+
+cnn_30_700
+tn, fp, fn, tp: 8241  999  1396  452
+f1 score: 0.27402243103970897
+accuracy: 0.7840007215007215
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.89      0.87      9240
+         1.0       0.31      0.24      0.27      1848
+
+    accuracy                           0.78     11088
+   macro avg       0.58      0.57      0.57     11088
+weighted avg       0.76      0.78      0.77     11088
+
+
+cnn_30_800
+tn, fp, fn, tp: 8234  1006  1383  465
+f1 score: 0.2802048809882495
+accuracy: 0.784541847041847
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.89      0.87      9240
+         1.0       0.32      0.25      0.28      1848
+
+    accuracy                           0.78     11088
+   macro avg       0.59      0.57      0.58     11088
+weighted avg       0.77      0.78      0.77     11088
+
+
+cnn_30_900
+tn, fp, fn, tp: 8317  923  1384  464
+f1 score: 0.28686244204018546
+accuracy: 0.7919372294372294
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.90      0.88      9240
+         1.0       0.33      0.25      0.29      1848
+
+    accuracy                           0.79     11088
+   macro avg       0.60      0.58      0.58     11088
+weighted avg       0.77      0.79      0.78     11088
+
+
+svm_1_300
+tn, fp, fn, tp: 6920  2320  966  882
+f1 score: 0.34930693069306934
+accuracy: 0.7036435786435786
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.75      0.81      9240
+         1.0       0.28      0.48      0.35      1848
+
+    accuracy                           0.70     11088
+   macro avg       0.58      0.61      0.58     11088
+weighted avg       0.78      0.70      0.73     11088
+
+
+svm_1_400
+tn, fp, fn, tp: 7008  2232  982  866
+f1 score: 0.3501819652244238
+accuracy: 0.7101370851370852
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.76      0.81      9240
+         1.0       0.28      0.47      0.35      1848
+
+    accuracy                           0.71     11088
+   macro avg       0.58      0.61      0.58     11088
+weighted avg       0.78      0.71      0.74     11088
+
+
+svm_1_500
+tn, fp, fn, tp: 6932  2308  899  949
+f1 score: 0.3717923604309501
+accuracy: 0.7107683982683982
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.75      0.81      9240
+         1.0       0.29      0.51      0.37      1848
+
+    accuracy                           0.71     11088
+   macro avg       0.59      0.63      0.59     11088
+weighted avg       0.79      0.71      0.74     11088
+
+
+svm_1_600
+tn, fp, fn, tp: 7251  1989  936  912
+f1 score: 0.38408085912823753
+accuracy: 0.7362012987012987
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.78      0.83      9240
+         1.0       0.31      0.49      0.38      1848
+
+    accuracy                           0.74     11088
+   macro avg       0.60      0.64      0.61     11088
+weighted avg       0.79      0.74      0.76     11088
+
+
+svm_1_700
+tn, fp, fn, tp: 7056  2184  841  1007
+f1 score: 0.39968247668188134
+accuracy: 0.7271825396825397
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.76      0.82      9240
+         1.0       0.32      0.54      0.40      1848
+
+    accuracy                           0.73     11088
+   macro avg       0.60      0.65      0.61     11088
+weighted avg       0.80      0.73      0.75     11088
+
+
+svm_1_800
+tn, fp, fn, tp: 7125  2115  840  1008
+f1 score: 0.4055522027761014
+accuracy: 0.733495670995671
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.77      0.83      9240
+         1.0       0.32      0.55      0.41      1848
+
+    accuracy                           0.73     11088
+   macro avg       0.61      0.66      0.62     11088
+weighted avg       0.80      0.73      0.76     11088
+
+
+svm_1_900
+tn, fp, fn, tp: 7232  2008  828  1020
+f1 score: 0.4183757178014766
+accuracy: 0.7442279942279942
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.78      0.84      9240
+         1.0       0.34      0.55      0.42      1848
+
+    accuracy                           0.74     11088
+   macro avg       0.62      0.67      0.63     11088
+weighted avg       0.80      0.74      0.77     11088
+
+
+svm_3_0
+tn, fp, fn, tp: 7270  1970  1045  803
+f1 score: 0.3475438216836183
+accuracy: 0.7280844155844156
+              precision    recall  f1-score   support
+
+        -1.0       0.87      0.79      0.83      9240
+         1.0       0.29      0.43      0.35      1848
+
+    accuracy                           0.73     11088
+   macro avg       0.58      0.61      0.59     11088
+weighted avg       0.78      0.73      0.75     11088
+
+
+svm_3_100
+tn, fp, fn, tp: 7209  2031  941  907
+f1 score: 0.37902214793146677
+accuracy: 0.7319624819624819
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.78      0.83      9240
+         1.0       0.31      0.49      0.38      1848
+
+    accuracy                           0.73     11088
+   macro avg       0.60      0.64      0.60     11088
+weighted avg       0.79      0.73      0.75     11088
+
+
+svm_3_200
+tn, fp, fn, tp: 7202  2038  942  906
+f1 score: 0.3781302170283807
+accuracy: 0.7312409812409812
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.78      0.83      9240
+         1.0       0.31      0.49      0.38      1848
+
+    accuracy                           0.73     11088
+   macro avg       0.60      0.63      0.60     11088
+weighted avg       0.79      0.73      0.75     11088
+
+
+svm_3_300
+tn, fp, fn, tp: 7160  2080  898  950
+f1 score: 0.3895038950389504
+accuracy: 0.7314213564213564
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.77      0.83      9240
+         1.0       0.31      0.51      0.39      1848
+
+    accuracy                           0.73     11088
+   macro avg       0.60      0.64      0.61     11088
+weighted avg       0.79      0.73      0.75     11088
+
+
+svm_3_400
+tn, fp, fn, tp: 7283  1957  884  964
+f1 score: 0.40427762633675823
+accuracy: 0.7437770562770563
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.79      0.84      9240
+         1.0       0.33      0.52      0.40      1848
+
+    accuracy                           0.74     11088
+   macro avg       0.61      0.65      0.62     11088
+weighted avg       0.80      0.74      0.76     11088
+
+
+svm_3_500
+tn, fp, fn, tp: 7226  2014  867  981
+f1 score: 0.40512079289696473
+accuracy: 0.7401695526695526
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.78      0.83      9240
+         1.0       0.33      0.53      0.41      1848
+
+    accuracy                           0.74     11088
+   macro avg       0.61      0.66      0.62     11088
+weighted avg       0.80      0.74      0.76     11088
+
+
+svm_3_600
+tn, fp, fn, tp: 7350  1890  828  1020
+f1 score: 0.4287515762925599
+accuracy: 0.7548701298701299
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.80      0.84      9240
+         1.0       0.35      0.55      0.43      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.62      0.67      0.64     11088
+weighted avg       0.81      0.75      0.77     11088
+
+
+svm_3_700
+tn, fp, fn, tp: 7361  1879  808  1040
+f1 score: 0.4363331235577932
+accuracy: 0.7576659451659452
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.80      0.85      9240
+         1.0       0.36      0.56      0.44      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.63      0.68      0.64     11088
+weighted avg       0.81      0.76      0.78     11088
+
+
+svm_3_800
+tn, fp, fn, tp: 7310  1930  763  1085
+f1 score: 0.4462266090890397
+accuracy: 0.7571248196248196
+              precision    recall  f1-score   support
+
+        -1.0       0.91      0.79      0.84      9240
+         1.0       0.36      0.59      0.45      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.63      0.69      0.65     11088
+weighted avg       0.81      0.76      0.78     11088
+
+
+svm_3_900
+tn, fp, fn, tp: 7497  1743  776  1072
+f1 score: 0.4597898348702552
+accuracy: 0.7728174603174603
+              precision    recall  f1-score   support
+
+        -1.0       0.91      0.81      0.86      9240
+         1.0       0.38      0.58      0.46      1848
+
+    accuracy                           0.77     11088
+   macro avg       0.64      0.70      0.66     11088
+weighted avg       0.82      0.77      0.79     11088
+
+
+svm_10_0
+tn, fp, fn, tp: 7006  2234  907  941
+f1 score: 0.37467648815448934
+accuracy: 0.7167207792207793
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.76      0.82      9240
+         1.0       0.30      0.51      0.37      1848
+
+    accuracy                           0.72     11088
+   macro avg       0.59      0.63      0.60     11088
+weighted avg       0.79      0.72      0.74     11088
+
+
+svm_10_100
+tn, fp, fn, tp: 7143  2097  895  953
+f1 score: 0.38913842384646796
+accuracy: 0.7301587301587301
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.77      0.83      9240
+         1.0       0.31      0.52      0.39      1848
+
+    accuracy                           0.73     11088
+   macro avg       0.60      0.64      0.61     11088
+weighted avg       0.79      0.73      0.75     11088
+
+
+svm_10_200
+tn, fp, fn, tp: 7168  2072  873  975
+f1 score: 0.39836567926455574
+accuracy: 0.7343975468975469
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.78      0.83      9240
+         1.0       0.32      0.53      0.40      1848
+
+    accuracy                           0.73     11088
+   macro avg       0.61      0.65      0.61     11088
+weighted avg       0.80      0.73      0.76     11088
+
+
+svm_10_300
+tn, fp, fn, tp: 7190  2050  859  989
+f1 score: 0.4047472887251893
+accuracy: 0.7376443001443002
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.78      0.83      9240
+         1.0       0.33      0.54      0.40      1848
+
+    accuracy                           0.74     11088
+   macro avg       0.61      0.66      0.62     11088
+weighted avg       0.80      0.74      0.76     11088
+
+
+svm_10_400
+tn, fp, fn, tp: 7207  2033  836  1012
+f1 score: 0.41365215614142653
+accuracy: 0.7412518037518038
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.78      0.83      9240
+         1.0       0.33      0.55      0.41      1848
+
+    accuracy                           0.74     11088
+   macro avg       0.61      0.66      0.62     11088
+weighted avg       0.80      0.74      0.76     11088
+
+
+svm_10_500
+tn, fp, fn, tp: 7199  2041  819  1029
+f1 score: 0.41846278975193163
+accuracy: 0.7420634920634921
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.78      0.83      9240
+         1.0       0.34      0.56      0.42      1848
+
+    accuracy                           0.74     11088
+   macro avg       0.62      0.67      0.63     11088
+weighted avg       0.80      0.74      0.76     11088
+
+
+svm_10_600
+tn, fp, fn, tp: 7273  1967  812  1036
+f1 score: 0.4271284271284271
+accuracy: 0.7493686868686869
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.79      0.84      9240
+         1.0       0.34      0.56      0.43      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.62      0.67      0.63     11088
+weighted avg       0.81      0.75      0.77     11088
+
+
+svm_10_700
+tn, fp, fn, tp: 7341  1899  777  1071
+f1 score: 0.44458281444582815
+accuracy: 0.7586580086580087
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.79      0.85      9240
+         1.0       0.36      0.58      0.44      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.63      0.69      0.65     11088
+weighted avg       0.81      0.76      0.78     11088
+
+
+svm_10_800
+tn, fp, fn, tp: 7378  1862  764  1084
+f1 score: 0.4522319566124322
+accuracy: 0.7631673881673882
+              precision    recall  f1-score   support
+
+        -1.0       0.91      0.80      0.85      9240
+         1.0       0.37      0.59      0.45      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.64      0.69      0.65     11088
+weighted avg       0.82      0.76      0.78     11088
+
+
+svm_10_900
+tn, fp, fn, tp: 7333  1907  703  1145
+f1 score: 0.46734693877551026
+accuracy: 0.7646103896103896
+              precision    recall  f1-score   support
+
+        -1.0       0.91      0.79      0.85      9240
+         1.0       0.38      0.62      0.47      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.64      0.71      0.66     11088
+weighted avg       0.82      0.76      0.79     11088
+
+
+svm_30_0
+tn, fp, fn, tp: 7132  2108  957  891
+f1 score: 0.36765009284093253
+accuracy: 0.723575036075036
+              precision    recall  f1-score   support
+
+        -1.0       0.88      0.77      0.82      9240
+         1.0       0.30      0.48      0.37      1848
+
+    accuracy                           0.72     11088
+   macro avg       0.59      0.63      0.60     11088
+weighted avg       0.78      0.72      0.75     11088
+
+
+svm_30_100
+tn, fp, fn, tp: 7218  2022  919  929
+f1 score: 0.3871639924984372
+accuracy: 0.7347582972582972
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.78      0.83      9240
+         1.0       0.31      0.50      0.39      1848
+
+    accuracy                           0.73     11088
+   macro avg       0.60      0.64      0.61     11088
+weighted avg       0.79      0.73      0.76     11088
+
+
+svm_30_200
+tn, fp, fn, tp: 7293  1947  910  938
+f1 score: 0.3963659412634692
+accuracy: 0.7423340548340548
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.79      0.84      9240
+         1.0       0.33      0.51      0.40      1848
+
+    accuracy                           0.74     11088
+   macro avg       0.61      0.65      0.62     11088
+weighted avg       0.80      0.74      0.76     11088
+
+
+svm_30_300
+tn, fp, fn, tp: 7265  1975  842  1006
+f1 score: 0.41664940981569687
+accuracy: 0.7459415584415584
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.79      0.84      9240
+         1.0       0.34      0.54      0.42      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.62      0.67      0.63     11088
+weighted avg       0.80      0.75      0.77     11088
+
+
+svm_30_400
+tn, fp, fn, tp: 7196  2044  862  986
+f1 score: 0.40426404264042637
+accuracy: 0.737914862914863
+              precision    recall  f1-score   support
+
+        -1.0       0.89      0.78      0.83      9240
+         1.0       0.33      0.53      0.40      1848
+
+    accuracy                           0.74     11088
+   macro avg       0.61      0.66      0.62     11088
+weighted avg       0.80      0.74      0.76     11088
+
+
+svm_30_500
+tn, fp, fn, tp: 7268  1972  827  1021
+f1 score: 0.421813674860566
+accuracy: 0.747564935064935
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.79      0.84      9240
+         1.0       0.34      0.55      0.42      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.62      0.67      0.63     11088
+weighted avg       0.81      0.75      0.77     11088
+
+
+svm_30_600
+tn, fp, fn, tp: 7480  1760  847  1001
+f1 score: 0.43436754176610975
+accuracy: 0.7648809523809523
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.81      0.85      9240
+         1.0       0.36      0.54      0.43      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.63      0.68      0.64     11088
+weighted avg       0.81      0.76      0.78     11088
+
+
+svm_30_700
+tn, fp, fn, tp: 7413  1827  794  1054
+f1 score: 0.44576020300274904
+accuracy: 0.7636183261183261
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.80      0.85      9240
+         1.0       0.37      0.57      0.45      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.63      0.69      0.65     11088
+weighted avg       0.81      0.76      0.78     11088
+
+
+svm_30_800
+tn, fp, fn, tp: 7453  1787  798  1050
+f1 score: 0.44823906083244397
+accuracy: 0.7668650793650794
+              precision    recall  f1-score   support
+
+        -1.0       0.90      0.81      0.85      9240
+         1.0       0.37      0.57      0.45      1848
+
+    accuracy                           0.77     11088
+   macro avg       0.64      0.69      0.65     11088
+weighted avg       0.81      0.77      0.78     11088
+
+
+svm_30_900
+tn, fp, fn, tp: 7403  1837  692  1156
+f1 score: 0.47758727535633133
+accuracy: 0.7719155844155844
+              precision    recall  f1-score   support
+
+        -1.0       0.91      0.80      0.85      9240
+         1.0       0.39      0.63      0.48      1848
+
+    accuracy                           0.77     11088
+   macro avg       0.65      0.71      0.67     11088
+weighted avg       0.83      0.77      0.79     11088
+
+
+rf_0_100
+tn, fp, fn, tp: 8746  494  1637  211
+f1 score: 0.16529573051312182
+accuracy: 0.8078102453102453
+              precision    recall  f1-score   support
+
+        -1.0       0.84      0.95      0.89      9240
+         1.0       0.30      0.11      0.17      1848
+
+    accuracy                           0.81     11088
+   macro avg       0.57      0.53      0.53     11088
+weighted avg       0.75      0.81      0.77     11088
+
+
+rf_0_200
+tn, fp, fn, tp: 8753  487  1642  206
+f1 score: 0.1621408894136167
+accuracy: 0.8079906204906205
+              precision    recall  f1-score   support
+
+        -1.0       0.84      0.95      0.89      9240
+         1.0       0.30      0.11      0.16      1848
+
+    accuracy                           0.81     11088
+   macro avg       0.57      0.53      0.53     11088
+weighted avg       0.75      0.81      0.77     11088
+
+
+rf_0_300
+tn, fp, fn, tp: 8746  494  1635  213
+f1 score: 0.16673189823874757
+accuracy: 0.8079906204906205
+              precision    recall  f1-score   support
+
+        -1.0       0.84      0.95      0.89      9240
+         1.0       0.30      0.12      0.17      1848
+
+    accuracy                           0.81     11088
+   macro avg       0.57      0.53      0.53     11088
+weighted avg       0.75      0.81      0.77     11088
+
+
+rf_0_400
+tn, fp, fn, tp: 8734  506  1639  209
+f1 score: 0.1630901287553648
+accuracy: 0.8065476190476191
+              precision    recall  f1-score   support
+
+        -1.0       0.84      0.95      0.89      9240
+         1.0       0.29      0.11      0.16      1848
+
+    accuracy                           0.81     11088
+   macro avg       0.57      0.53      0.53     11088
+weighted avg       0.75      0.81      0.77     11088
+
+
+rf_0_500
+tn, fp, fn, tp: 8750  490  1645  203
+f1 score: 0.15977961432506887
+accuracy: 0.8074494949494949
+              precision    recall  f1-score   support
+
+        -1.0       0.84      0.95      0.89      9240
+         1.0       0.29      0.11      0.16      1848
+
+    accuracy                           0.81     11088
+   macro avg       0.57      0.53      0.53     11088
+weighted avg       0.75      0.81      0.77     11088
+
+
+rf_0_600
+tn, fp, fn, tp: 8720  520  1636  212
+f1 score: 0.16434108527131783
+accuracy: 0.8055555555555556
+              precision    recall  f1-score   support
+
+        -1.0       0.84      0.94      0.89      9240
+         1.0       0.29      0.11      0.16      1848
+
+    accuracy                           0.81     11088
+   macro avg       0.57      0.53      0.53     11088
+weighted avg       0.75      0.81      0.77     11088
+
+
+rf_0_700
+tn, fp, fn, tp: 8740  500  1644  204
+f1 score: 0.15987460815047022
+accuracy: 0.8066378066378066
+              precision    recall  f1-score   support
+
+        -1.0       0.84      0.95      0.89      9240
+         1.0       0.29      0.11      0.16      1848
+
+    accuracy                           0.81     11088
+   macro avg       0.57      0.53      0.53     11088
+weighted avg       0.75      0.81      0.77     11088
+
+
+rf_0_800
+tn, fp, fn, tp: 8729  511  1625  223
+f1 score: 0.17273431448489543
+accuracy: 0.8073593073593074
+              precision    recall  f1-score   support
+
+        -1.0       0.84      0.94      0.89      9240
+         1.0       0.30      0.12      0.17      1848
+
+    accuracy                           0.81     11088
+   macro avg       0.57      0.53      0.53     11088
+weighted avg       0.75      0.81      0.77     11088
+
+
+rf_0_900
+tn, fp, fn, tp: 8733  507  1642  206
+f1 score: 0.16087465833658726
+accuracy: 0.8061868686868687
+              precision    recall  f1-score   support
+
+        -1.0       0.84      0.95      0.89      9240
+         1.0       0.29      0.11      0.16      1848
+
+    accuracy                           0.81     11088
+   macro avg       0.57      0.53      0.53     11088
+weighted avg       0.75      0.81      0.77     11088
+
+
+rf_1_0
+tn, fp, fn, tp: 7203  2037  1190  658
+f1 score: 0.2896764252696456
+accuracy: 0.7089646464646465
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.78      0.82      9240
+         1.0       0.24      0.36      0.29      1848
+
+    accuracy                           0.71     11088
+   macro avg       0.55      0.57      0.55     11088
+weighted avg       0.76      0.71      0.73     11088
+
+
+rf_1_100
+tn, fp, fn, tp: 7179  2061  1177  671
+f1 score: 0.2930131004366812
+accuracy: 0.7079725829725829
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.78      0.82      9240
+         1.0       0.25      0.36      0.29      1848
+
+    accuracy                           0.71     11088
+   macro avg       0.55      0.57      0.55     11088
+weighted avg       0.76      0.71      0.73     11088
+
+
+rf_1_200
+tn, fp, fn, tp: 7134  2106  1147  701
+f1 score: 0.30118152524167563
+accuracy: 0.7066197691197691
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.77      0.81      9240
+         1.0       0.25      0.38      0.30      1848
+
+    accuracy                           0.71     11088
+   macro avg       0.56      0.58      0.56     11088
+weighted avg       0.76      0.71      0.73     11088
+
+
+rf_1_300
+tn, fp, fn, tp: 7206  2034  1189  659
+f1 score: 0.2902444395507597
+accuracy: 0.7093253968253969
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.78      0.82      9240
+         1.0       0.24      0.36      0.29      1848
+
+    accuracy                           0.71     11088
+   macro avg       0.55      0.57      0.55     11088
+weighted avg       0.76      0.71      0.73     11088
+
+
+rf_1_400
+tn, fp, fn, tp: 7181  2059  1175  673
+f1 score: 0.2938864628820961
+accuracy: 0.7083333333333334
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.78      0.82      9240
+         1.0       0.25      0.36      0.29      1848
+
+    accuracy                           0.71     11088
+   macro avg       0.55      0.57      0.56     11088
+weighted avg       0.76      0.71      0.73     11088
+
+
+rf_1_500
+tn, fp, fn, tp: 7139  2101  1170  678
+f1 score: 0.29306245947698295
+accuracy: 0.7049963924963925
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.77      0.81      9240
+         1.0       0.24      0.37      0.29      1848
+
+    accuracy                           0.70     11088
+   macro avg       0.55      0.57      0.55     11088
+weighted avg       0.76      0.70      0.73     11088
+
+
+rf_1_600
+tn, fp, fn, tp: 7166  2074  1159  689
+f1 score: 0.2988505747126437
+accuracy: 0.7084235209235209
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.78      0.82      9240
+         1.0       0.25      0.37      0.30      1848
+
+    accuracy                           0.71     11088
+   macro avg       0.56      0.57      0.56     11088
+weighted avg       0.76      0.71      0.73     11088
+
+
+rf_1_700
+tn, fp, fn, tp: 7148  2092  1161  687
+f1 score: 0.29695266911605794
+accuracy: 0.7066197691197691
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.77      0.81      9240
+         1.0       0.25      0.37      0.30      1848
+
+    accuracy                           0.71     11088
+   macro avg       0.55      0.57      0.56     11088
+weighted avg       0.76      0.71      0.73     11088
+
+
+rf_1_800
+tn, fp, fn, tp: 7162  2078  1182  666
+f1 score: 0.29006968641114983
+accuracy: 0.7059884559884559
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.78      0.81      9240
+         1.0       0.24      0.36      0.29      1848
+
+    accuracy                           0.71     11088
+   macro avg       0.55      0.57      0.55     11088
+weighted avg       0.76      0.71      0.73     11088
+
+
+rf_1_900
+tn, fp, fn, tp: 7204  2036  1192  656
+f1 score: 0.2889867841409692
+accuracy: 0.7088744588744589
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.78      0.82      9240
+         1.0       0.24      0.35      0.29      1848
+
+    accuracy                           0.71     11088
+   macro avg       0.55      0.57      0.55     11088
+weighted avg       0.76      0.71      0.73     11088
+
+
+rf_3_0
+tn, fp, fn, tp: 7776  1464  1283  565
+f1 score: 0.2914624709827186
+accuracy: 0.7522546897546898
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.84      0.85      9240
+         1.0       0.28      0.31      0.29      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.75      0.76     11088
+
+
+rf_3_100
+tn, fp, fn, tp: 7793  1447  1291  557
+f1 score: 0.28920041536863966
+accuracy: 0.7530663780663781
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.84      0.85      9240
+         1.0       0.28      0.30      0.29      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.75      0.76     11088
+
+
+rf_3_200
+tn, fp, fn, tp: 7828  1412  1297  551
+f1 score: 0.2891629493571241
+accuracy: 0.7556818181818182
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.85      0.85      9240
+         1.0       0.28      0.30      0.29      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.76      0.76     11088
+
+
+rf_3_300
+tn, fp, fn, tp: 7784  1456  1278  570
+f1 score: 0.29426948890036136
+accuracy: 0.7534271284271284
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.84      0.85      9240
+         1.0       0.28      0.31      0.29      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.58      0.57     11088
+weighted avg       0.76      0.75      0.76     11088
+
+
+rf_3_400
+tn, fp, fn, tp: 7799  1441  1285  563
+f1 score: 0.29231568016614745
+accuracy: 0.7541486291486291
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.84      0.85      9240
+         1.0       0.28      0.30      0.29      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.75      0.76     11088
+
+
+rf_3_500
+tn, fp, fn, tp: 7805  1435  1298  550
+f1 score: 0.28698147665014345
+accuracy: 0.753517316017316
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.84      0.85      9240
+         1.0       0.28      0.30      0.29      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.75      0.76     11088
+
+
+rf_3_600
+tn, fp, fn, tp: 7797  1443  1291  557
+f1 score: 0.2895010395010395
+accuracy: 0.7534271284271284
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.84      0.85      9240
+         1.0       0.28      0.30      0.29      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.75      0.76     11088
+
+
+rf_3_700
+tn, fp, fn, tp: 7765  1475  1279  569
+f1 score: 0.2923946557040082
+accuracy: 0.7516233766233766
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.84      0.85      9240
+         1.0       0.28      0.31      0.29      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.75      0.76     11088
+
+
+rf_3_800
+tn, fp, fn, tp: 7796  1444  1282  566
+f1 score: 0.2934162778641783
+accuracy: 0.7541486291486291
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.84      0.85      9240
+         1.0       0.28      0.31      0.29      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.75      0.76     11088
+
+
+rf_3_900
+tn, fp, fn, tp: 7790  1450  1283  565
+f1 score: 0.2925187677970489
+accuracy: 0.753517316017316
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.84      0.85      9240
+         1.0       0.28      0.31      0.29      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.75      0.76     11088
+
+
+rf_10_0
+tn, fp, fn, tp: 7903  1337  1311  537
+f1 score: 0.28855454056958624
+accuracy: 0.7611832611832612
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.86      0.86      9240
+         1.0       0.29      0.29      0.29      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.76      0.76     11088
+
+
+rf_10_100
+tn, fp, fn, tp: 7898  1342  1303  545
+f1 score: 0.2918340026773762
+accuracy: 0.761453823953824
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.85      0.86      9240
+         1.0       0.29      0.29      0.29      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.76      0.76     11088
+
+
+rf_10_200
+tn, fp, fn, tp: 7893  1347  1312  536
+f1 score: 0.2873224336638971
+accuracy: 0.7601911976911977
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.85      0.86      9240
+         1.0       0.28      0.29      0.29      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.76      0.76     11088
+
+
+rf_10_300
+tn, fp, fn, tp: 7872  1368  1297  551
+f1 score: 0.2925404831430847
+accuracy: 0.7596500721500722
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.85      0.86      9240
+         1.0       0.29      0.30      0.29      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.57      0.58      0.57     11088
+weighted avg       0.76      0.76      0.76     11088
+
+
+rf_10_400
+tn, fp, fn, tp: 7930  1310  1311  537
+f1 score: 0.2906630581867389
+accuracy: 0.7636183261183261
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.86      0.86      9240
+         1.0       0.29      0.29      0.29      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.76      0.76     11088
+
+
+rf_10_500
+tn, fp, fn, tp: 7870  1370  1296  552
+f1 score: 0.2928381962864722
+accuracy: 0.7595598845598845
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.85      0.86      9240
+         1.0       0.29      0.30      0.29      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.57      0.58      0.57     11088
+weighted avg       0.76      0.76      0.76     11088
+
+
+rf_10_600
+tn, fp, fn, tp: 7888  1352  1319  529
+f1 score: 0.2837221775274873
+accuracy: 0.7591089466089466
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.85      0.86      9240
+         1.0       0.28      0.29      0.28      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.76      0.76     11088
+
+
+rf_10_700
+tn, fp, fn, tp: 7904  1336  1304  544
+f1 score: 0.2918454935622318
+accuracy: 0.7619047619047619
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.86      0.86      9240
+         1.0       0.29      0.29      0.29      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.57      0.57      0.57     11088
+weighted avg       0.76      0.76      0.76     11088
+
+
+rf_10_800
+tn, fp, fn, tp: 7889  1351  1300  548
+f1 score: 0.292500667200427
+accuracy: 0.7609126984126984
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.85      0.86      9240
+         1.0       0.29      0.30      0.29      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.57      0.58      0.57     11088
+weighted avg       0.76      0.76      0.76     11088
+
+
+rf_10_900
+tn, fp, fn, tp: 7888  1352  1300  548
+f1 score: 0.2924226254002134
+accuracy: 0.7608225108225108
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.85      0.86      9240
+         1.0       0.29      0.30      0.29      1848
+
+    accuracy                           0.76     11088
+   macro avg       0.57      0.58      0.57     11088
+weighted avg       0.76      0.76      0.76     11088
+
+
+rf_30_0
+tn, fp, fn, tp: 7686  1554  1232  616
+f1 score: 0.30662020905923343
+accuracy: 0.7487373737373737
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.83      0.85      9240
+         1.0       0.28      0.33      0.31      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.58      0.58     11088
+weighted avg       0.77      0.75      0.76     11088
+
+
+rf_30_100
+tn, fp, fn, tp: 7669  1571  1237  611
+f1 score: 0.3032258064516129
+accuracy: 0.7467532467532467
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.83      0.85      9240
+         1.0       0.28      0.33      0.30      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.58      0.57     11088
+weighted avg       0.76      0.75      0.75     11088
+
+
+rf_30_200
+tn, fp, fn, tp: 7707  1533  1226  622
+f1 score: 0.31076692480639523
+accuracy: 0.7511724386724387
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.83      0.85      9240
+         1.0       0.29      0.34      0.31      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.58      0.59      0.58     11088
+weighted avg       0.77      0.75      0.76     11088
+
+
+rf_30_300
+tn, fp, fn, tp: 7710  1530  1225  623
+f1 score: 0.311422144463884
+accuracy: 0.751533189033189
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.83      0.85      9240
+         1.0       0.29      0.34      0.31      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.58      0.59      0.58     11088
+weighted avg       0.77      0.75      0.76     11088
+
+
+rf_30_400
+tn, fp, fn, tp: 7682  1558  1225  623
+f1 score: 0.3092578803673368
+accuracy: 0.7490079365079365
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.83      0.85      9240
+         1.0       0.29      0.34      0.31      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.58      0.58     11088
+weighted avg       0.77      0.75      0.76     11088
+
+
+rf_30_500
+tn, fp, fn, tp: 7679  1561  1233  615
+f1 score: 0.30566600397614313
+accuracy: 0.748015873015873
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.83      0.85      9240
+         1.0       0.28      0.33      0.31      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.58      0.58     11088
+weighted avg       0.77      0.75      0.76     11088
+
+
+rf_30_600
+tn, fp, fn, tp: 7671  1569  1234  614
+f1 score: 0.30463904738278347
+accuracy: 0.7472041847041847
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.83      0.85      9240
+         1.0       0.28      0.33      0.30      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.58      0.58     11088
+weighted avg       0.76      0.75      0.76     11088
+
+
+rf_30_700
+tn, fp, fn, tp: 7685  1555  1229  619
+f1 score: 0.30780706116360024
+accuracy: 0.7489177489177489
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.83      0.85      9240
+         1.0       0.28      0.33      0.31      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.57      0.58      0.58     11088
+weighted avg       0.77      0.75      0.76     11088
+
+
+rf_30_800
+tn, fp, fn, tp: 7693  1547  1216  632
+f1 score: 0.31388130121678676
+accuracy: 0.7508116883116883
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.83      0.85      9240
+         1.0       0.29      0.34      0.31      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.58      0.59      0.58     11088
+weighted avg       0.77      0.75      0.76     11088
+
+
+rf_30_900
+tn, fp, fn, tp: 7704  1536  1221  627
+f1 score: 0.31264023934181
+accuracy: 0.7513528138528138
+              precision    recall  f1-score   support
+
+        -1.0       0.86      0.83      0.85      9240
+         1.0       0.29      0.34      0.31      1848
+
+    accuracy                           0.75     11088
+   macro avg       0.58      0.59      0.58     11088
+weighted avg       0.77      0.75      0.76     11088
+
+
